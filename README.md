@@ -45,4 +45,3 @@ To set up and run the app locally, follow these steps:
 
 ---
 
-### 🚀 **Let's build a better learning experience with Owl-M!**
